@@ -5,7 +5,7 @@ void print(vector<int>q,vector<int>&p,int index){
 
 if(index==p.size()){
     for(auto it:q)
-    cout<<"Change in root "<<endl;
+
     return ;
 }
 
